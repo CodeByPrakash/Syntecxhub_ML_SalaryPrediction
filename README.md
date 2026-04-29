@@ -38,17 +38,6 @@ Raw Data → Data Cleaning → EDA → Feature Engineering → Model Training �
 
 ---
 
-## 📊 Model Performance
-
-| Metric | Value |
-|---|---|
-| Algorithm | Linear Regression |
-| R² Score | _(add your score)_ |
-| Mean Absolute Error | _(add your MAE)_ |
-| Mean Squared Error | _(add your MSE)_ |
-
----
-
 ## 📈 Sample Visualizations
 
 - Correlation heatmap of features
