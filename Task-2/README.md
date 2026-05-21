@@ -102,6 +102,9 @@ jupyter notebook notebooks/salary_prediction.ipynb
 
 ---
 
+## Previews
+[!preview](https://github.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/blob/main/Task-2/experience-Salary_seaborn_plot_scatter_bar.png)
+[!preview](https://github.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/blob/main/Task-2/experience_seaborn_plot_scatter_bar.png)
 ## 📄 License
 
 This project is for educational and internship purposes under Syntecxhub.
