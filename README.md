@@ -90,6 +90,13 @@ jupyter notebook notebooks/salary_prediction.ipynb
 | **GitHub** | [@CodeByPrakash](https://github.com/CodeByPrakash) |
 
 ---
+## Previews
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/experience-Salary_seaborn_plot_scatter_bar.png)
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/experience_seaborn_plot_scatter_bar.png)
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/experience_vs_salary.png)
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/seaborn_Allplot.png)
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/testScore-Salary_seaborn_plot_scatter_bar.png)
+![Preview](https://raw.githubusercontent.com/CodeByPrakash/Syntecxhub_ML_SalaryPrediction/main/Task-2/testscore_vs_salary.png)
 
 ## 📄 License
 
